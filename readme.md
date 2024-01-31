@@ -1,29 +1,11 @@
-<!-- Errors type:
+# BMI value Founded
 
+# Jhon weight 65 heigh = 166
 
-// Client side errors
+# Daniel weight 68 height = 194
 
-// Syntax errors
-// DOM manipulation errors
-// Cross-browser compatibility issues
-// Responsive design errors
-// Validation errors
+# individual BMI Score
 
+# Who has leading score
 
-
-// Server side errors
-
-// HTTP status codes
-// Database errors
-// Authentication and authorization errors
-// API errors
-// Performance issues
-
-
-
-// logical errors
-
-// Incorrect calculations
-// Infinite loops
-// Improper data handling
-// Misconfigured routing -->
+# weight (kg) / [height (m)]2
